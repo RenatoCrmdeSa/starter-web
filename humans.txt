@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Renato C.R.M.de Sá
 
 # THANKS
 
