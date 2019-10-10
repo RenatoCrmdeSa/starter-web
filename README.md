@@ -23,4 +23,4 @@
 	Simple web project, deployment can be done in any web server 
 
 ### Copyright
-	Git.Training.2019
+	Git.Training.2019 All rights reserved
