@@ -5,11 +5,16 @@
 
 ## Introduction
 
-	This is an example to show differente parts of git repository and varios commands
+	This is an example to show different parts of git repository and varios commands
 	
 
 ## Purpose
 
-## How to Contribute
+	Test git commands 
 
+
+## How to Contribute
+	
 ## Deployment
+	
+	Simple web project, deployment can be done in any web server 
