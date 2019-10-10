@@ -15,6 +15,8 @@
 
 ## How to Contribute
 	
+	USE THE FORK
+	
 ## Deployment
 	
 	Simple web project, deployment can be done in any web server 
